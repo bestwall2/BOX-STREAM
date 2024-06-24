@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 # Specify the Bundler version here
-gem 'bundler', '1.17.2'
 
 # List your other gems as before
 gem "jekyll", "4.2.1"
