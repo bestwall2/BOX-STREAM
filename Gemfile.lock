@@ -119,4 +119,10 @@ DEPENDENCIES
   jekyll-sitemap
   octopress-minify-html
   tzinfo-data
+  minima (~> 2.5)
+  tzinfo (~> 1.2)
+  wdm (~> 0.1.1)
+  webrick
+BUNDLED WITH
+   2.5.6
 
